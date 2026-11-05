@@ -1,0 +1,8 @@
+# Arbeitsmaterial, nicht Teil der Website
+_zip/
+referenzen/
+img/vorher-garten*.webp
+
+# System
+Thumbs.db
+.DS_Store
